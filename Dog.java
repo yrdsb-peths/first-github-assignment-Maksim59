@@ -3,4 +3,5 @@ public class Dog {
     public String firstName;
     public int Age;
     public String favTreat;
+    public String ownerName;
 }
