@@ -4,4 +4,5 @@ public class Dog {
     public int Age;
     public String favTreat;
     public String ownerName;
+    public int ownerPhoneNumber;
 }
