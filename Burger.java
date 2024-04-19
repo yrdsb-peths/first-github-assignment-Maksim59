@@ -3,4 +3,9 @@ public class Burger{
     public String beefRarity;
     public boolean isThereCheese;
 
+    public String getBeefRarity
+    {
+        return beefRarity;
+    }
+
 }
