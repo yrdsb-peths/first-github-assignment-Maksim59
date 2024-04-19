@@ -8,4 +8,8 @@ public class Student {
     {
         return avgGrade;
     }
+    public void printHello
+    {
+        System.out.println("Hello");
+    }
 }
