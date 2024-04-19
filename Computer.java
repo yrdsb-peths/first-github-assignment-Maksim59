@@ -9,4 +9,8 @@ public class Computer {
     {
         return gpu;
     }
+    public int returnSomething
+    {
+        return 5;
+    }
 }
